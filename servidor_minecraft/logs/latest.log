@@ -47,3 +47,8 @@
 [12:00:39] [Server thread/INFO]: Unknown command. Type "/help" for help.
 [12:00:59] [Server thread/INFO]: mrppsi lost connection: Disconnected
 [12:00:59] [Server thread/INFO]: mrppsi left the game
+[12:14:50] [User Authenticator #2/INFO]: UUID of player mrppsi is 5199a828-bdc2-410c-a269-c42f16826eeb
+[12:14:50] [Server thread/INFO]: mrppsi joined the game
+[12:14:50] [Server thread/INFO]: mrppsi[/127.144.49.9:42439] logged in with entity id 286 at ([world]52.314158464022235, 35.0, -7.116516578509233)
+[12:15:07] [Server thread/INFO]: mrppsi lost connection: Disconnected
+[12:15:07] [Server thread/INFO]: mrppsi left the game
