@@ -1,0 +1,49 @@
+[11:58:36] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[11:58:36] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[11:58:37] [Worker-Main-1/INFO]: Loaded 7 recipes
+[11:58:39] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[11:58:39] [Server thread/INFO]: Loading properties
+[11:58:39] [Server thread/INFO]: This server is running Paper version git-Paper-794 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[11:58:39] [Server thread/INFO]: Debug logging is disabled
+[11:58:39] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[11:58:39] [Server thread/INFO]: Using 4 threads for Netty based IO
+[11:58:39] [Server thread/INFO]: Default game type: SURVIVAL
+[11:58:39] [Server thread/INFO]: Generating keypair
+[11:58:40] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:58:40] [Server thread/INFO]: Using epoll channel type
+[11:58:40] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:58:40] [Server thread/INFO]: Preparing level "world"
+[11:58:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:58:41] [Server thread/INFO]: Preparing spawn area: 0%
+[11:58:41] [Server thread/INFO]: Preparing spawn area: 0%
+[11:58:41] [Server thread/INFO]: Time elapsed: 575 ms
+[11:58:41] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[11:58:41] [Server thread/INFO]: Time elapsed: 260 ms
+[11:58:41] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[11:58:42] [Server thread/INFO]: Time elapsed: 173 ms
+[11:58:42] [Server thread/INFO]: Running delayed init tasks
+[11:58:42] [Server thread/INFO]: Done (2.581s)! For help, type "help"
+[11:58:42] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[11:58:42] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * WARNING - YOU ARE RUNNING AN OUTDATED VERSION OF JAVA.
+[11:58:42] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * PAPER WILL STOP BEING COMPATIBLE WITH THIS VERSION OF
+[11:58:42] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * JAVA WHEN MINECRAFT 1.17 IS RELEASED.
+[11:58:42] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[11:58:42] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Please update the version of Java you use to run Paper
+[11:58:42] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * to at least Java 16. When Paper for Minecraft 1.17 is
+[11:58:42] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * released support for versions of Java before 16 will
+[11:58:42] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * be dropped.
+[11:58:42] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[11:58:42] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Current Java version: 11.0.27
+[11:58:42] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[11:58:42] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Check this forum post for more information: 
+[11:58:42] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *   https://papermc.io/java16
+[11:58:42] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[11:58:42] [Server thread/INFO]: Timings Reset
+[11:59:47] [User Authenticator #1/INFO]: UUID of player mrppsi is 5199a828-bdc2-410c-a269-c42f16826eeb
+[11:59:47] [Server thread/INFO]: mrppsi joined the game
+[11:59:47] [Server thread/INFO]: mrppsi[/127.144.49.9:36731] logged in with entity id 156 at ([world]60.49412953912209, 78.0, -1.2292555039543311)
+[11:59:52] [Server thread/INFO]: mrppsi issued server command: /pl
+[12:00:11] [Server thread/INFO]: mrppsi issued server command: /help
+[12:00:39] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[12:00:59] [Server thread/INFO]: mrppsi lost connection: Disconnected
+[12:00:59] [Server thread/INFO]: mrppsi left the game
